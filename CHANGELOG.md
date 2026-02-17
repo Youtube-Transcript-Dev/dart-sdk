@@ -1,3 +1,7 @@
+## 0.1.2
+
+- Fix README badges: replace broken popularity badge with likes, use static pub points badge
+
 ## 0.1.1
 
 - Shorten package description for pub.dev compliance

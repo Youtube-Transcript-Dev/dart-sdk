@@ -13,8 +13,8 @@
 
 <p align="center">
   <a href="https://pub.dev/packages/youtubetranscript"><img src="https://img.shields.io/pub/v/youtubetranscript.svg" alt="pub version" /></a>
-  <a href="https://pub.dev/packages/youtubetranscript/score"><img src="https://img.shields.io/pub/points/youtubetranscript" alt="pub points" /></a>
-  <a href="https://pub.dev/packages/youtubetranscript"><img src="https://img.shields.io/pub/popularity/youtubetranscript" alt="popularity" /></a>
+  <a href="https://pub.dev/packages/youtubetranscript/score"><img src="https://img.shields.io/badge/pub%20points-160%2F160-brightgreen" alt="pub points" /></a>
+  <a href="https://pub.dev/packages/youtubetranscript"><img src="https://img.shields.io/pub/likes/youtubetranscript" alt="likes" /></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license" /></a>
 </p>
 
