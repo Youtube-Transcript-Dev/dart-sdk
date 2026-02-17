@@ -1,4 +1,5 @@
 /// Data models for the YouTubeTranscript API.
+library;
 
 /// A single transcript segment with timing.
 class Segment {

@@ -7,6 +7,7 @@
 ///   print('[${seg.startFormatted}] ${seg.text}');
 /// }
 /// ```
+library;
 
 import 'dart:async';
 import 'dart:convert';
@@ -129,7 +130,7 @@ class YouTubeTranscript {
   /// [timeout] — Max wait time (default 20 minutes).
   ///
   /// Throws [JobFailedException] if the job fails.
-  /// Throws [TimeoutException] if polling exceeds timeout.
+  /// Throws [PollingTimeoutException] if polling exceeds timeout.
   Future<Transcript> waitForJob(
     String jobId, {
     Duration pollInterval = const Duration(seconds: 10),
@@ -152,7 +153,7 @@ class YouTubeTranscript {
       }
 
       if (stopwatch.elapsed > timeout) {
-        throw TimeoutException(
+        throw PollingTimeoutException(
           'Timed out waiting for job $jobId after ${timeout.inSeconds}s',
         );
       }

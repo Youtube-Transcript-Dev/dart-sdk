@@ -1,4 +1,5 @@
 /// Exceptions thrown by the YouTubeTranscript SDK.
+library;
 
 /// Base exception for all API errors.
 class YouTubeTranscriptException implements Exception {
@@ -60,8 +61,8 @@ class JobFailedException extends YouTubeTranscriptException {
 }
 
 /// Thrown when polling times out.
-class TimeoutException extends YouTubeTranscriptException {
-  const TimeoutException(super.message);
+class PollingTimeoutException extends YouTubeTranscriptException {
+  const PollingTimeoutException(super.message);
 }
 
 /// Create the appropriate exception from an API error response.
