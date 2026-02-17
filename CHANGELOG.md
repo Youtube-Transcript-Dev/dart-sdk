@@ -1,3 +1,8 @@
+## 0.1.1
+
+- Shorten package description for pub.dev compliance
+- Improved README with logo, badges, and expanded docs
+
 ## 0.1.0
 
 - Initial release

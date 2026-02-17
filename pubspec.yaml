@@ -1,9 +1,6 @@
 name: youtubetranscript
-description: >-
-  Official Dart/Flutter SDK for YouTubeTranscript.dev — extract, transcribe,
-  and translate YouTube video transcripts. Supports captions, ASR audio
-  transcription, batch processing, and 100+ languages.
-version: 0.1.0
+description: "Official Dart/Flutter SDK for YouTubeTranscript.dev. Extract, transcribe, and translate YouTube video transcripts."
+version: 0.1.1
 homepage: https://youtubetranscript.dev
 repository: https://github.com/Youtube-Transcript-Dev/dart-sdk
 issue_tracker: https://github.com/Youtube-Transcript-Dev/dart-sdk/issues
