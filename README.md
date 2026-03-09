@@ -1,13 +1,13 @@
 <p align="center">
-  <a href="https://youtubetranscript.dev">
-    <img src="https://youtubetranscript.dev/logo.svg" width="80" height="80" alt="YouTubeTranscript.dev logo" />
+  <a href="https://www.youtubetranscript.dev">
+    <img src="https://www.youtubetranscript.dev/logo.svg" width="80" height="80" alt="YouTubeTranscript.dev logo" />
   </a>
 </p>
 
 <h1 align="center">youtubetranscript</h1>
 
 <p align="center">
-  <strong>Official Dart/Flutter SDK for <a href="https://youtubetranscript.dev">YouTubeTranscript.dev</a></strong><br />
+  <strong>Official Dart/Flutter SDK for <a href="https://www.youtubetranscript.dev">YouTubeTranscript.dev</a></strong><br />
   Extract, transcribe, and translate YouTube video transcripts with a single function call.
 </p>
 
@@ -65,7 +65,7 @@ void main() async {
 }
 ```
 
-> Get your free API key at [youtubetranscript.dev/dashboard](https://youtubetranscript.dev/dashboard)
+> Get your free API key at [youtubetranscript.dev/dashboard](https://www.youtubetranscript.dev/dashboard)
 
 ## Features
 
@@ -196,8 +196,8 @@ MIT — see [LICENSE](LICENSE)
 
 ## Links
 
-- [Website](https://youtubetranscript.dev)
-- [API Documentation](https://youtubetranscript.dev/api-docs)
-- [Dashboard & API Key](https://youtubetranscript.dev/dashboard)
+- [Website](https://www.youtubetranscript.dev)
+- [API Documentation](https://www.youtubetranscript.dev/api-docs)
+- [Dashboard & API Key](https://www.youtubetranscript.dev/dashboard)
 - [GitHub](https://github.com/Youtube-Transcript-Dev/dart-sdk)
 - [pub.dev](https://pub.dev/packages/youtubetranscript)
